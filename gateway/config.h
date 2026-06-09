@@ -6,8 +6,8 @@
 
 // ==================== Wi-Fi ====================
 // 默认值，会被FFat中的配置覆盖
-#define DEFAULT_WIFI_SSID     "iPhone"
-#define DEFAULT_WIFI_PASS     "Lq18992475777"
+#define DEFAULT_WIFI_SSID     "***"
+#define DEFAULT_WIFI_PASS     "***"
 #define WIFI_RETRY_DELAY      10000   // 重连间隔 (ms)
 #define WIFI_RETRY_COUNT      5       // 最大重试次数
 
@@ -42,7 +42,7 @@
 #define DTU_TX           17
 
 // 默认钉钉token（可被Web配置覆盖）
-#define DEFAULT_DINGTALK_TOKEN  "8d8aaaf366694452a076974b719cbc35ee1efd133a41cc5c3a2fe3462ec32d63"
+#define DEFAULT_DINGTALK_TOKEN  "***"
 
 
 // ==================== 系统 ====================
